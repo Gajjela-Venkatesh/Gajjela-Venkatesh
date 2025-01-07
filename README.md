@@ -53,7 +53,7 @@ Welcome to my GitHub portfolio! Here, you'll find projects and contributions sho
 - Personalized recommendations using content-based filtering.
 ### 4. Crypto Chat App
 - **Technologies**: HTML, CSS, Javascript
--Enables secure messaging with password-based encryption and decryption.
+- Enables secure messaging with password-based encryption and decryption.
 
 ### 5. Airline Management System
 - **Technologies**: Java, Swing, MySQL
