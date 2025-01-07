@@ -51,8 +51,11 @@ Welcome to my GitHub portfolio! Here, you'll find projects and contributions sho
 ### 3. Movie Recommendation System
 - **Technologies**: Python, Machine Learning
 - Personalized recommendations using content-based filtering.
+### 4. Crypto Chat App
+- **Technologies**: HTML, CSS, Javascript
+-Enables secure messaging with password-based encryption and decryption.
 
-### 4. Airline Management System
+### 5. Airline Management System
 - **Technologies**: Java, Swing, MySQL
 - Efficient management of passenger, flight, and employee data.
 
