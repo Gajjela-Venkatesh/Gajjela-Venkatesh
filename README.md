@@ -13,7 +13,7 @@ I am an **AI/ML fresher actively seeking entry-level opportunities** where I can
 ## 👨‍💻 About Me
 - 🎓 **B.Tech in Computer Science & Engineering (2021–2025)**  
   *Marri Laxman Reddy Institute of Technology and Management* | **CGPA: 8.5**
-- 💼 **Machine Learning Intern** — *The Smart Bridge Educational Services*
+- 💼 **Machine Learning Intern** — *The Smart Bridge*
 - 🏆 **Smart India Hackathon 2024 – Finalist**
 - 🧠 Interests: **GenAI, RAG, Agentic AI, NLP, OCR, Automation**
 
