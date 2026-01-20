@@ -1,20 +1,21 @@
 # 👋 Hi, I’m Gajjela Venkatesh
 
-🚀 **AI/ML Fresher | Python Developer | NLP & Agentic AI Enthusiast**  
-🏆 **Smart India Hackathon 2024 Finalist**
+## Machine Learning Intern | Generative AI, RAG & Agentic AI | Python-Based AI Solutions
 
-I am a **Computer Science graduate (2025)** and an **AI/ML fresher** with strong hands-on project experience in **Natural Language Processing, Agentic AI systems, and Python automation**. I enjoy building practical, real-world AI applications using **Machine Learning, Generative AI, and FastAPI**.
+I’m a **Machine Learning Intern at The SmartBridge** and a **Smart India Hackathon 2024 Finalist**, with hands-on experience building **real-world AI systems** using **Python, Machine Learning, and Generative AI**.
 
-I am actively seeking **entry-level opportunities** in **AI/ML, Generative AI, or Python-based roles**.
+My work focuses on **Retrieval-Augmented Generation (RAG), Agentic AI systems, NLP, OCR automation, and Python-based automation**, delivered through **API-driven applications** using **Flask/FastAPI** and cloud tools like **AWS**.
+
+I am an **AI/ML fresher actively seeking entry-level opportunities** where I can contribute, learn, and grow while building impactful AI solutions.
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 **B.Tech in Computer Science & Engineering (2021–2025)**  
   *Marri Laxman Reddy Institute of Technology and Management* | **CGPA: 8.5**
-- 💼 **Machine Learning Intern** at *The Smart Bridge Educational Services*
-- 🧠 Interested in **GenAI, NLP, RAG, Agentic AI, and ML pipelines**
-- ⚡ Quick learner, problem solver, and team-oriented
+- 💼 **Machine Learning Intern** — *The Smart Bridge Educational Services*
+- 🏆 **Smart India Hackathon 2024 – Finalist**
+- 🧠 Interests: **GenAI, RAG, Agentic AI, NLP, OCR, Automation**
 
 ---
 
@@ -33,49 +34,53 @@ I am actively seeking **entry-level opportunities** in **AI/ML, Generative AI, o
 ## 🚀 Featured Projects
 
 ### 🔹 Automated Certificate Verification System
-**Tech:** Python, FastAPI, PaddleOCR, Tesseract, EasyOCR, OpenCV  
-- Bulk certificate verification using **advanced OCR and fuzzy matching**
-- Handles CSV/Excel uploads with real-time reporting
-- High-performance processing (**300+ certificates/min**)
+- Built a **high-performance OCR-based verification system** for bulk certificate validation  
+- Uses **PaddleOCR, Tesseract, EasyOCR** with fuzzy matching  
+- Processes **300+ certificates/min** with real-time reporting  
+
+**Tech:** Python, FastAPI, OpenCV, PyMuPDF, OCR
 
 ---
 
 ### 🔹 Smart Session Agent (GenAI + RAG)
-**Tech:** Python, Flask, LLMs, RAG  
-- Agentic AI system that answers student questions from class chat logs
-- Uses **LLMs with Retrieval-Augmented Generation** over PDFs and slides
-- Automated email-based responses
+- Developed an **agentic AI system** to answer student queries from class chat logs  
+- Implemented **RAG pipelines** over PDFs and slides using LLMs  
+- Automated email-based responses  
+
+**Tech:** Python, Flask, Generative AI, RAG
 
 ---
 
 ### 🔹 AI Fitness Coach (Generative AI)
-**Tech:** FastAPI, Google Gemini, SQLite  
-- Personalized workout & nutrition plans using **Generative AI**
-- Feedback-driven learning loop
-- Secure user authentication and profiles
+- Personalized fitness & nutrition coaching using **Google Gemini**  
+- Adaptive feedback-driven workout planning  
+- Secure authentication & profile management  
+
+**Tech:** FastAPI, Google Gemini API, SQLite
 
 ---
 
 ### 🔹 Resume & Interview Skills Evaluator
-**Tech:** FastAPI, Generative AI  
-- AI-powered resume evaluation against job descriptions
-- Interview answer scoring with structured AI feedback
-- Evaluation history and progress tracking
+- AI-powered resume scoring against job descriptions  
+- Interview answer evaluation with structured AI feedback  
+- Progress tracking and AI-generated questions  
+
+**Tech:** FastAPI, Generative AI
 
 ---
 
 ## 🏆 Achievements
 - 🥇 **Smart India Hackathon 2024 – Finalist**
-- 🎯 Selected for **National Yukthi Challenge – Regional Meet**
-- 🤝 Active participant and coordinator in college hackathons
+- 🎯 National Yukthi Challenge – Regional Selection
+- 🤝 Active participant & coordinator in college hackathons
 
 ---
 
 ## 📜 Certifications
-- 🟢 **AWS Certified Machine Learning Engineer – Associate**
-- 🟢 **AWS Certified AI Practitioner**
-- 🟢 **AWS Academy – Generative AI Foundations**
-- 🟢 Data Structures & Algorithms – Smart Interviews
+- ✅ AWS Certified Machine Learning Engineer – Associate  
+- ✅ AWS Certified AI Practitioner  
+- ✅ AWS Academy – Generative AI Foundations  
+- ✅ Data Structures & Algorithms – Smart Interviews  
 
 ---
 
@@ -92,4 +97,4 @@ I am actively seeking **entry-level opportunities** in **AI/ML, Generative AI, o
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile. I’m open to entry-level opportunities and collaborations in AI/ML and Generative AI.*
+⭐ *Thanks for visiting my GitHub portfolio. I’m open to entry-level AI/ML and Generative AI opportunities.*
