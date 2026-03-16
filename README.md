@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Gajjela Venkatesh
 
-## Machine Learning Intern | Generative AI, RAG & Agentic AI | Python-Based AI Solutions
+## AIML Intern | Generative AI, RAG & Agentic AI | Python-Based AI Solutions
 
-I’m a **Machine Learning Intern at The SmartBridge** and a **Smart India Hackathon 2024 Finalist**, with hands-on experience building **real-world AI systems** using **Python, Machine Learning, and Generative AI**.
+I’m a **AIML Intern at The SmartBridge** and a **Smart India Hackathon 2024 Finalist**, with hands-on experience building **real-world AI systems** using **Python, Machine Learning, and Generative AI**.
 
 My work focuses on **Retrieval-Augmented Generation (RAG), Agentic AI systems, NLP, OCR automation, and Python-based automation**, delivered through **API-driven applications** using **FastAPI/Flask** and cloud tools like **AWS**.
 
